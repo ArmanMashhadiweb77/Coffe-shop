@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "arman": "npx tailwindcss -i ./src/input.css -o ./public/style/output.css --watch "
+  },
+  "devDependencies": {
+    "tailwindcss": "^3.3.1"
+  }
+}
